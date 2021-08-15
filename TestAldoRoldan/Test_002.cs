@@ -11,13 +11,12 @@ using System.Threading.Tasks;
 
 namespace TestAldoRoldan
 {
-    public class Test_002
+    public class Test_002 : Test_00
     {
-        IWebDriver browserdriver = new ChromeDriver("C:\\Users\\home\\source\\repos\\TestAldoRoldan");
+        IWebDriver browserdriver = new ChromeDriver(GetPath());
         [SetUp]
         public void OpenBrowser()
-        {
-
+        {            
             browserdriver.Navigate().GoToUrl("https://demoqa.com/");
             Thread.Sleep(2000);
             browserdriver.Manage().Window.Maximize();

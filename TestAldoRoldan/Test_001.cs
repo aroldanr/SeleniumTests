@@ -11,9 +11,9 @@ using System.Threading.Tasks;
 
 namespace TestAldoRoldan
 {    
-    public class Test_001
+    public class Test_001 : Test_00
     {
-        IWebDriver browserdriver = new ChromeDriver("C:\\Users\\home\\source\\repos\\TestAldoRoldan");
+        IWebDriver browserdriver = new ChromeDriver(GetPath());
         [SetUp]
         public void OpenBrowser()
         {

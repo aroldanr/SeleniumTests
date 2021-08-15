@@ -14,9 +14,23 @@ namespace TestAldoRoldan
     public class Test_00
     {       
         static void Main(string[] args)
-        {           
+        {
+                  
 
-        }  
+        }
+
+        public static String GetPath()
+        {
+            var url = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().GetName().CodeBase);
+
+            //correction in path to point it in Root directory
+            var mainpath = url.Replace("\\bin\\Debug", "");
+            var pthurl = mainpath.Replace("file:\\", "");
+      
+            return pthurl;
+
+
+        }
 
     }
 }

@@ -11,8 +11,8 @@ C:\Users\home\source\repos\TestAldoRoldan\TestAldoRoldan\bin\Debug\nunit.framewo
 C:\Users\home\source\repos\TestAldoRoldan\TestAldoRoldan\bin\Debug\WebDriver.dll
 C:\Users\home\source\repos\TestAldoRoldan\TestAldoRoldan\bin\Debug\nunit.framework.xml
 C:\Users\home\source\repos\TestAldoRoldan\TestAldoRoldan\bin\Debug\WebDriver.xml
-C:\Users\home\source\repos\TestAldoRoldan\TestAldoRoldan\obj\Debug\TestAldoRoldan.csproj.AssemblyReference.cache
 C:\Users\home\source\repos\TestAldoRoldan\TestAldoRoldan\obj\Debug\TestAldoRoldan.csproj.CoreCompileInputs.cache
 C:\Users\home\source\repos\TestAldoRoldan\TestAldoRoldan\obj\Debug\TestAldoRoldan.csproj.CopyComplete
 C:\Users\home\source\repos\TestAldoRoldan\TestAldoRoldan\obj\Debug\TestAldoRoldan.exe
 C:\Users\home\source\repos\TestAldoRoldan\TestAldoRoldan\obj\Debug\TestAldoRoldan.pdb
+C:\Users\home\source\repos\TestAldoRoldan\TestAldoRoldan\obj\Debug\TestAldoRoldan.csproj.AssemblyReference.cache
